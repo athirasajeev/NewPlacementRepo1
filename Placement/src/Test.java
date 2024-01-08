@@ -15,7 +15,7 @@ public class Test {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		Thread.sleep(5000);
 		driver.close();
-		System.out.println("hai welcome site");
+		System.out.println("hai welcome site hai");
 
 	}
 
